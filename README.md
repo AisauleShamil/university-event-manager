@@ -26,4 +26,15 @@ A desktop application built with C# (.NET) and MS SQL Server designed to streaml
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/university-event-manager.git](https://github.com/your-username/university-event-manager.git)
+   git clone [https://github.com/AisauleShamil/university-event-manager.git](https://github.com/AisauleShamil/university-event-manager.git)
+2. Setup Database:
+
+Open Microsoft SQL Server Management Studio (SSMS).
+
+Run the SQL queries provided in UniversityEventManager/database to generate the schema.
+
+3. Run Application:
+
+Open UniversityEventManager.sln in Visual Studio.
+
+Press F5 or click Start to build and launch the application.
